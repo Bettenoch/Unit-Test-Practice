@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
